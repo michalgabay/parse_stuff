@@ -2,3 +2,4 @@
 
 """Main module."""
 print("Hello, world!")
+print("Good")
